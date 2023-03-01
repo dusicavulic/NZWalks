@@ -1,6 +1,8 @@
-﻿namespace NZWalks.API.Models.DTO
+﻿using AutoMapper;
+
+namespace NZWalks.API.Models.DTO
 {
-	public class AddRegionRequest
+	public class AddRegionRequest 
 	{
 		public string Code { get; set; }
 

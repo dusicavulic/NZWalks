@@ -1,4 +1,6 @@
-﻿namespace NZWalks.API.Models.DTO
+﻿using AutoMapper;
+
+namespace NZWalks.API.Models.DTO
 {
 	public class Region
 	{
