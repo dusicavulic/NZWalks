@@ -8,6 +8,5 @@
 		public Guid RegionId { get; set; }
 		public Guid WalkDifficultyId { get; set; }
 
-
 	}
 }
